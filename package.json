@@ -67,7 +67,7 @@
     "react-test-renderer": "^16.12.0",
     "responsive-loader": "^1.2.0",
     "sass-loader": "^8.0.0",
-    "sharp": "^0.23.3",
+    "sharp": "^0.30.5",
     "style-loader": "^1.0.0",
     "stylelint": "^12.0.0",
     "stylelint-config-recommended": "^3.0.0",
